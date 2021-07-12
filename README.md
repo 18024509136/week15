@@ -12,4 +12,5 @@
 - 4大队列，kafka、rabbitma、rocketmq、pulsar的原理和高阶使用
 - spring cloud生态圈，包括spring cloud 阿里
 - 内存网格hazelcast的原理和使用  
-最后课程中涉及大部分知识点已分章节整理为xmind脑图，详细请见项目文件
+  
+最后课程中涉及大部分的知识点已分章节整理为xmind脑图，详细请见各个项目文件
