@@ -6,6 +6,7 @@
 - 完整Rpc框架的实现，其中使用到AOP代理、CGLIB代理，Spring BeanPostProcessor、反射机制、netty通信框架基本使用等
 - 分布式框架Hmily在spring cloud和dubbo中的使用
 - ShardingSphere对分库分表和多数据源的支持  
+  
 由于进阶营课时有限，有些课程没能展开深入讲解，本人认为需要自行深入学习的知识点有:  
 - netty的深入原理和编程框架的详细使用，以及长链接的实现
 - 4大队列，kafka、rabbitma、rocketmq、pulsar的原理和高阶使用
